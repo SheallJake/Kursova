@@ -1,0 +1,11 @@
+D:\University\NetFramework\Курсовая\kursach\obj\Debug\kursach.csproj.AssemblyReference.cache
+D:\University\NetFramework\Курсовая\kursach\obj\Debug\kursach.csproj.SuggestedBindingRedirects.cache
+D:\University\NetFramework\Курсовая\kursach\obj\Debug\kursach.Form1.resources
+D:\University\NetFramework\Курсовая\kursach\obj\Debug\kursach.Properties.Resources.resources
+D:\University\NetFramework\Курсовая\kursach\obj\Debug\kursach.csproj.GenerateResource.cache
+D:\University\NetFramework\Курсовая\kursach\obj\Debug\kursach.csproj.CoreCompileInputs.cache
+D:\University\NetFramework\Курсовая\kursach\bin\Debug\kursach.exe.config
+D:\University\NetFramework\Курсовая\kursach\bin\Debug\kursach.exe
+D:\University\NetFramework\Курсовая\kursach\bin\Debug\kursach.pdb
+D:\University\NetFramework\Курсовая\kursach\obj\Debug\kursach.exe
+D:\University\NetFramework\Курсовая\kursach\obj\Debug\kursach.pdb
